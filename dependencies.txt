@@ -1,0 +1,2 @@
+pip3 install torchtext
+pip3 Install xlrd
